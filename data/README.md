@@ -14,3 +14,10 @@ following information:
 * the date the data was downloaded
 * any details about how the download was specified (e.g. if specific columns were requested)
 * a list of all (relevant) columns in the table, and their meaning
+
+
+1) create a new file or edit existing file
+2) run 'git status'
+3) then run 'git add . --all'  <- this adds the new changes you made
+4) then run "git commit -m 'add your commit message'" <- this prepares the changes you've made to be ready to push
+5) Finally, run 'git push'
